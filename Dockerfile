@@ -1,1 +1,1 @@
-From axboy/leanote:latest
+From etherpad/etherpad:latest
