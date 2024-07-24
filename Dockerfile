@@ -1,1 +1,1 @@
-From etherpad/etherpad:latest
+From mariadb:10.11
