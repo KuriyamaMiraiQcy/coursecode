@@ -1,1 +1,1 @@
-From mariadb:10.8
+From cassandra:latest
