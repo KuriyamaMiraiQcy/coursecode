@@ -1,1 +1,1 @@
-From golang:1.21-ubuntu
+From golang:1.20-ubuntu
